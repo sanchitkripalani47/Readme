@@ -3,9 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 This is Sanchit Kripalani, a Third-Year (TE) Computer Engineering Student at [**PICT**](https://pict.edu/). 
-- Ever since my dad bought a computer for our house, I’ve wanted to work in something related to Technology. Despite both my parents being doctors, the pull of computers prompted me to choose Computer Engineering as my career.
-- My inclination and a consequent proficiency in Mathematics just aided the cause. This, in turn, has inflated my interest in Economics and Data Science.
-- I am currently exploring different niches of Computer Engineering, having tried out Android App development (With Java). At the moment, I am studying and building projects in Machine Learning and Deep Learning with Python.
+- I still remember that day, 'The Day' my dad brought a computer to our house. It was then,when my fascination for these big blue screens was born. Fascination became  curiosity and curiosity has now become a purpose to understand and serve this technological world of computers and more !
+- Hence, my decision to select Computer Engineering as my major degree course was clear from a very young age. My inclination supported by proficiency in Mathematics simply aided the cause. Now, having combined knowledge of Computers and Mathematics and awareness about the current situation of the world has inflated my interest in Economics and Data Science as well.
+- I am currently exploring different niches of computer engineering, having tried out Android App development (With Java). At the moment, I am studying and making projects in Machine Learning and Deep Learning with python.
 
 I have an extensive knowledge in a number of fields including Technology, Science and Current Affairs. As the subtitle suggests, I am a Tech Enthusiast first. Apart from that, I am also a staunch Football fan, with most of my leisure time spent on football. I also love to read books and watch movies.
 
