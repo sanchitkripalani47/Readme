@@ -69,7 +69,6 @@ I have an extensive knowledge in a number of fields including Technology, Scienc
 <p align="center">
 <a href="https://github.com/sanchitkripalani47/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanchitkripalani47&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanchitkripalani47&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
