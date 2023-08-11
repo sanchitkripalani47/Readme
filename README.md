@@ -2,7 +2,10 @@
 <h3 align="center">Just Another Tech-Enthusiast Turned Computer Engineer.</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-This is Sanchit Kripalani, a Third-Year (TE) Computer Engineering Student at [**PICT**](https://pict.edu/). 
+This is Sanchit Kripalani, an incoming student M.S Computer Science at  [**University of Southern California**](https://www.cs.usc.edu/), Los Angeles, California.
+
+I have completed my B.E in Computer Engineering (Hons. in AI & ML) form [**Pune Institute of Computer Technology**](https://pict.edu/), India with a cgpa of 9.29/10.
+
 - I still remember that day, 'The Day' my dad brought a computer to our house. It was then,when my fascination for these big blue screens was born. Fascination became  curiosity and curiosity has now become a purpose to understand and serve this technological world of computers and more !
 - Hence, my decision to select Computer Engineering as my major degree course was clear from a very young age. My inclination supported by proficiency in Mathematics simply aided the cause. Now, having combined knowledge of Computers and Mathematics and awareness about the current situation of the world has inflated my interest in Economics and Data Science as well.
 - I am currently exploring different niches of computer engineering, having tried out Android App development (With Java). At the moment, I am studying and making projects in Machine Learning and Deep Learning with python.
@@ -11,7 +14,7 @@ I have an extensive knowledge in a number of fields including Technology, Scienc
 
 <br>
 
- 📄 Resume: [Sanchit's Resume](https://drive.google.com/file/d/1wYPRlDaSaodKAnrl0mGjsR5wfTIvmnbe/view?usp=sharing)
+ 📄 Resume: [Sanchit's Resume](https://drive.google.com/file/d/1MYTF01-FsQLuIU4OAdpMO368VaOx4BZC/view?usp=sharing)
 
 <br>
 
@@ -27,13 +30,13 @@ I have an extensive knowledge in a number of fields including Technology, Scienc
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://download.logo.wine/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.png" alt="django" width="40" height="40"/> </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 </p>
 
 <h3 align="left">Data Science:</h3>
 <p align="left">
-<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> 
+<a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="numpy" width="40" height="40"/> 
 </a> &nbsp;
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDIqFNPFquurBV2EX89LOVFAgJieARWphRnYMwMvuE9uP9cDbK3l2LtOZ4GkyYBpHF4cA&usqp=CAU" alt="pandas" width="40" height="40"/> 
 </a> &nbsp;
