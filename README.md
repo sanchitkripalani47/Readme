@@ -6,15 +6,15 @@ This is Sanchit Kripalani, an incoming student M.S Computer Science at  [**Unive
 
 I have completed my B.E in Computer Engineering (Hons. in AI & ML) form [**Pune Institute of Computer Technology**](https://pict.edu/), India with a cgpa of 9.29/10.
 
-- I still remember that day, 'The Day' my dad brought a computer to our house. It was then,when my fascination for these big blue screens was born. Fascination became  curiosity and curiosity has now become a purpose to understand and serve this technological world of computers and more !
-- Hence, my decision to select Computer Engineering as my major degree course was clear from a very young age. My inclination supported by proficiency in Mathematics simply aided the cause. Now, having combined knowledge of Computers and Mathematics and awareness about the current situation of the world has inflated my interest in Economics and Data Science as well.
-- I am currently exploring different niches of computer engineering, having tried out Android App development (With Java). At the moment, I am studying and making projects in Machine Learning and Deep Learning with python.
+I am an incoming Master's CS student at USC @ Los Angeles, California.
 
-I have an extensive knowledge in a number of fields including Technology, Science and Current Affairs. As the subtitle suggests, I am a Tech Enthusiast first. Apart from that, I am also a staunch Football fan, with most of my leisure time spent on football. I also love to read books and watch movies.
+My undergrad at PICT helped me explore various Computer science domains, such as web backend (Django), Native Android App Developement (Java) and Cross Platform App development (Flutter). I also posses a keen interest and comprehensive knowledge in the field of Machine Learning. My primary focus lies in the domain of Natural Langauge Processing, a fascination that led me to complete my BE thesis in this field. I am enthusiastic about furthering my expertise through projects in this domain. As a Master's student, I aim to deepen my understanding of these subjects through coursework and potential research opportunities. 
+
+I describe myself as a Tech enthusiast turned software engineer. I posses an extensive knowledge across various fields including Technology, Science and Current Affairs. Besides that, I am a staunch Football fan, dedicating most of my leisure time to the sport. Additionally, I am passionate about reading books and watching movies.
 
 <br>
 
- 📄 Resume: [Sanchit's Resume](https://drive.google.com/file/d/1MYTF01-FsQLuIU4OAdpMO368VaOx4BZC/view?usp=sharing)
+ 📄 Resume: [Sanchit's Resume](https://drive.google.com/file/d/1KiQwS3B1GbEikYGBLSxYSA_PRZAexCbo/view?usp=sharing)
 
 <br>
 
